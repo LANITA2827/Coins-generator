@@ -7,7 +7,17 @@ os.system("pip install aiohttp")
 os.system("pip install requests")
 os.system("pip install pytz")
 
-
+proxies=socks5://butteraminopy:butteraminopy@176.126.83.121
+socks5://butteraminopy:butteraminopy@2.56.119.93
+socks5://butteraminopy:butteraminopy@185.199.229.156
+socks5://butteraminopy:butteraminopy@185.199.228.220
+socks5://butteraminopy:butteraminopy@185.199.231.45
+socks5://butteraminopy:butteraminopy@188.74.210.207
+socks5://butteraminopy:butteraminopy@188.74.183.10
+socks5://butteraminopy:butteraminopy@188.74.210.21
+socks5://butteraminopy:butteraminopy@45.155.68.129
+socks5://butteraminopy:butteraminopy@154.95.36.199
+socks5://butteraminopy:butteraminopy@45.94.47.66
 
 import concurrent.futures
 
