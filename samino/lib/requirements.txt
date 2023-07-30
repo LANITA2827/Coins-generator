@@ -2,4 +2,3 @@ k_amino.py
 colorama
 ujson
 pytz
-python==
